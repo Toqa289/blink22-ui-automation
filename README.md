@@ -1,0 +1,1 @@
+# blink22-ui-automation
